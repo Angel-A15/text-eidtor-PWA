@@ -3,9 +3,9 @@
 ## Project
 As a developer, I want an application that creates notes and code snippets with 
 or without internet connection. I make notes on a regular daily bases for iam increasing
-my understanding of new concepts in programming languages. It would be inconveniant if
-one day I was unable to do so, because I wasn't connected to the internet. This application
-would make note taking accessible to me anytime and anywhere.
+my understanding of new concepts in programming languages. It would be great loss if I 
+were to lose connection to the internet one day. This application would make note 
+aking accessible to me anytime and anywhere.
 
 The concept I have set out for the application follows:
 
