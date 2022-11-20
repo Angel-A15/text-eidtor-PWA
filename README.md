@@ -36,3 +36,7 @@ The npm packages and programs used for the application include:
 The user can install the application into their device by clicking the install
 button after opening the application on the browser. Otherwise, use it from the
 deployed application link.
+
+## Link to Application
+https://peaceful-savannah-72323.herokuapp.com/
+
