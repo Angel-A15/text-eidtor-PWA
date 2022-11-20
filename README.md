@@ -1,6 +1,7 @@
 # text-eidtor-PWA
 
 ## Project
+
 As a developer, I want an application that creates notes and code snippets with 
 or without internet connection. I make notes on a regular daily bases for iam increasing
 my understanding of new concepts in programming languages. It would be a great loss if I 
@@ -19,6 +20,7 @@ To have my application function as intended, I have provided the following:
   * Loading the web application will have a registered service worker using Workbox
   * Registering a service worker will have the static assets preached upon 
   loading along with subsequent pages
+  
   * Deploying to Heroku should have proper scripts for a webpack application
 
 ## Installation
